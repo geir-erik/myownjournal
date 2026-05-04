@@ -1,11 +1,11 @@
-  # Privacy Policy for MyOwnJournals
+  # Privacy Policy for MyOwnJournal
 
   **Effective date:** May 4, 2026
   **Contact:** geir.erik.nielsen@gmail.com
 
   ## Summary
 
-  MyOwnJournals is a personal journaling app that runs entirely on your
+  MyOwnJournal is a personal journaling app that runs entirely on your
   device. We don't operate any servers, we don't have an account system,
   and we don't collect, transmit, or sell any of your data. Your journal
   entries, drawings, and photos never leave your device unless *you*
@@ -52,7 +52,7 @@
 
   ## TestFlight (beta only)
 
-  If you are using MyOwnJournals through Apple's TestFlight, Apple may
+  If you are using MyOwnJournal through Apple's TestFlight, Apple may
   collect crash reports and basic usage information as described in
   [Apple's TestFlight Privacy Policy](https://www.apple.com/legal/privacy/data/en/test-flight/).
   This is handled by Apple, not by the app developer.
