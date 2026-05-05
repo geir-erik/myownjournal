@@ -1,7 +1,7 @@
   # Privacy Policy for MyOwnJournal
 
   **Effective date:** May 4, 2026
-  **Contact:** geir.erik.nielsen@gmail.com
+  **Contact:** myownjournal@gmail.com
 
   ## Summary
 
@@ -69,4 +69,4 @@
 
   ## Contact
 
-  Questions about this policy: geir.erik.nielsen@gmail.com
+  Questions about this policy: myownjournal@gmail.com
