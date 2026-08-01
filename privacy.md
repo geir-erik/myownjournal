@@ -1,6 +1,10 @@
+---
+title: Privacy Policy
+---
+
   # Privacy Policy for MyOwnJournal
 
-  **Effective date:** May 4, 2026
+  **Effective date:** 1 August 2026
   **Contact:** myownjournalapp@gmail.com
 
   ## Summary
